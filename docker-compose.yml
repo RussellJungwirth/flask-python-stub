@@ -1,10 +1,5 @@
-version: "3.8"
+version: "2"
 
 services:
   app:
-    image: jungwirth/flask-python-stub:fe46938
-    # build: .
-    ports:
-      - 5000:5000
-    environment:
-      APP_MESSAGE: "initial build"
+    image: jungwirth/flask-python-stub:latest
