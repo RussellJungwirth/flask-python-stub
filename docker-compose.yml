@@ -1,0 +1,7 @@
+version: "3.8"
+
+services:
+  app:
+    image: jungwirth/flask-python-stub:latest
+    ports:
+      - 5000:5000

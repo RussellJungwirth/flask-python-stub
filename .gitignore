@@ -1,0 +1,14 @@
+**build
+**__pycache__
+**.pyc
+_venv
+.coverage*
+*.egg-info
+.eggs
+htmlcov
+**.DS_STORE
+*.log
+.vscode
+.env
+.idea
+event_data/
